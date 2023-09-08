@@ -1,0 +1,75 @@
+.form .col-7 {
+  margin: 0 auto;
+  margin-top: 7rem;
+}
+.form .col-7 .submitWork {
+  margin-left: 12rem;
+}
+.form .col-7 button {
+  margin-left: 2rem;
+  margin-top: 1.8rem;
+}
+.form .col-7 {
+  box-shadow: 0 0 4px 0 gray;
+  padding: 4rem 2rem;
+}
+.form input {
+  font-weight: 700;
+}
+.form .col-7 h1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  margin-bottom: 1.3rem;
+}
+@media screen and (max-width: 1200px) {
+  .form .col-7 {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .form .col-7 {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .form .col-7 {
+    width: 100%;
+  }
+  .form .col-7 .submit {
+    margin-left: 8rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .form .col-7 {
+    width: 90%;
+  }
+  .form .col-7 .submit {
+    margin-left: 5rem;
+  }
+}
+@media screen and (max-width: 470px) {
+  .form .col-7 {
+    width: 90%;
+  }
+  .form .col-7 .submit {
+    margin-left: 3rem;
+  }
+}
+@media screen and (max-width: 370px) {
+  .form .col-7 {
+    width: 90%;
+  }
+  .form .col-7 .submit {
+    margin-left: 1rem;
+  }
+}
+@media screen and (max-width: 350px) {
+  .form .col-7 {
+    width: 90%;
+  }
+  .form .col-7 .submit {
+    margin-left: 0rem;
+  }
+}
